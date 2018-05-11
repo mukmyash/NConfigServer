@@ -1,5 +1,5 @@
  {
- "test_string": "test",
+ "test_string": "base config file",
  "test_bool": false,
   "test_int": 1,
   "test_obj": {
