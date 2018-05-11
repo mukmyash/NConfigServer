@@ -1,0 +1,11 @@
+ {
+ "test_string": "test",
+ "test_bool": false,
+  "test_int": 1,
+  "test_obj": {
+    "test_objinner": {
+      "test_val": 1,
+      "test_vval2": true
+    }
+  }
+}
